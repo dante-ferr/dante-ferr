@@ -28,6 +28,7 @@ Below are the techs I use or am learning to use.
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/metamask.png" alt="Metamask" title="Metamask"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dante-ferr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dante-ferr/dante-ferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
