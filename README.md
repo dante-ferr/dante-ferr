@@ -1,7 +1,5 @@
 I'm Dante, a programmer in training.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dante-ferr&layout=donut)](https://github.com/dante-ferr/github-readme-stats)
-
 Below are the techs I use or am learning to use.
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python" width="32" />
